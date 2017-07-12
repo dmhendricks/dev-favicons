@@ -6,7 +6,19 @@ It is not uncommon that web developers have many tabs open - sometimes with mult
 
 **This is a work in progress.**
 
+
 ### Typical Usage
+
+```
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="theme-color" content="#ffffff">
+```
+
+### Expanded Usage
 
 ```
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
@@ -25,17 +37,6 @@ It is not uncommon that web developers have many tabs open - sometimes with mult
 <link rel="manifest" href="/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-<meta name="theme-color" content="#ffffff">
-```
-
-### Abbreviated
-
-```
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/manifest.json">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="theme-color" content="#ffffff">
 ```
 
@@ -68,8 +69,12 @@ Icons without attribution were created by the owner of this repo.
 
 ## Special Thanks
 
-I have been using the following [favicon generator](http://www.favicon-generator.org/):
+I used [Real Favicon Generator](http://realfavicongenerator.net/) to generate the abbreviate
 
-	URL: http://www.favicon-generator.org/
+  URL: http://realfavicongenerator.net/
+
+I used the following [favicon generator](http://www.favicon-generator.org/) to generate the extra icons:
+
+  	URL: http://www.favicon-generator.org/
     Author: Dan's Tools
     Author URI: http://www.danstools.com/
