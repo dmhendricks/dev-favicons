@@ -10,9 +10,17 @@ It is not uncommon that web developers have many tabs open - sometimes with mult
 * Make it easy with a WordPress plugin
 * Maybe find a gracious CDN to host the tiny images on
 
-## Attribution
+## Sources/Attribution
 
-TODO
+Icons without attribution were created by the owner of this repo.
+
+### Apps
+
+#### WordPress
+
+* `src/apps/wordpress/dark/` - [Freepik](http://www.freepik.com) (CC 3.0 BY)
+* `src/apps/wordpress/light/` - [Vectorgraphit](http://www.flaticon.com/authors/vectorgraphit) (CC 3.0 BY)
+* `src/apps/wordpress/logo/` - [Anas Ramadan](http://www.flaticon.com/authors/anas-ramadan) (CC 3.0 BY)
 
 ## Special Thanks
 
