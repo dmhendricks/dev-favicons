@@ -71,7 +71,7 @@ Icons without attribution were created by the owner of this repo.
 
 I used [Real Favicon Generator](http://realfavicongenerator.net/) to generate the abbreviate
 
-  URL: http://realfavicongenerator.net/
+	URL: http://realfavicongenerator.net/
 
 I used the following [favicon generator](http://www.favicon-generator.org/) to generate the extra icons:
 
